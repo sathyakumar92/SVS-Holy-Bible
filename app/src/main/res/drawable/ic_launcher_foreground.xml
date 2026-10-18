@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gentle Radiant Gold Halo Behind Cross -->
+    <path
+        android:pathData="M54,26 L55.5,33 L62,34.5 L55.5,36 L54,43 L52.5,36 L46,34.5 L52.5,33 Z"
+        android:fillColor="#F2D675" />
+    <path
+        android:pathData="M39,32 L40,36 L44,37 L40,38 L39,42 L38,38 L34,37 L38,36 Z"
+        android:fillColor="#A88732" />
+    <path
+        android:pathData="M69,32 L70,36 L74,37 L70,38 L69,42 L68,38 L64,37 L68,36 Z"
+        android:fillColor="#A88732" />
+
+    <!-- Open Bible Pages Left & Right -->
+    <!-- Left Page Base -->
+    <path
+        android:pathData="M53,49 C46,47 34,48 27,51 C26,51.5 25.5,52.5 25.5,53.5 L25.5,75 C25.5,76 26.5,76.5 27.5,76 C34,73 45,72 53,75 Z"
+        android:fillColor="#F7F8FC" />
+    <!-- Right Page Base -->
+    <path
+        android:pathData="M55,49 C62,47 74,48 81,51 C82,51.5 82.5,52.5 82.5,53.5 L82.5,75 C82.5,76 81.5,76.5 80.5,76 C74,73 63,72 55,75 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Gold Page Trim / Spine Trim -->
+    <path
+        android:pathData="M27,76 C34,73 45,72 53,75 L53,77 C45,74 34,75 27,78 Z"
+        android:fillColor="#D4AF37" />
+    <path
+        android:pathData="M81,76 C74,73 63,72 55,75 L55,77 C63,74 74,75 81,78 Z"
+        android:fillColor="#D4AF37" />
+
+    <!-- Open Bible Book Cover Underneath -->
+    <path
+        android:pathData="M24,53 L24,77 C24,78.5 25.5,79.5 27,79 C34,76 46,75 54,78.5 C62,75 74,76 81,79 C82.5,79.5 84,78.5 84,77 L84,53 C84,52.5 83.5,52 83,52 L82,52 L82,75.5 C74.5,72.5 62.5,71.5 54.5,75 C46.5,71.5 33.5,72.5 26,75.5 L26,52 L25,52 C24.5,52 24,52.5 24,53 Z"
+        android:fillColor="#173F8A" />
+
+    <!-- Page Text Lines Representation (Left & Right) -->
+    <path
+        android:pathData="M31,56 L49,54 M31,60 L49,58 M31,64 L49,62 M31,68 L47,66"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#2859A8" />
+    <path
+        android:pathData="M59,54 L77,56 M59,58 L77,60 M59,62 L77,64 M61,66 L77,68"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#2859A8" />
+
+    <!-- Center Gold Ribbon Bookmark -->
+    <path
+        android:pathData="M53,48 L55,48 L55,78 L54,82 L53,78 Z"
+        android:fillColor="#D4AF37" />
+
+    <!-- Radiant Latin Cross Floating Above Center -->
+    <!-- Vertical Cross Bar -->
+    <path
+        android:pathData="M52,28 L56,28 L56,48 L52,48 Z"
+        android:fillColor="#D4AF37" />
+    <!-- Horizontal Cross Bar -->
+    <path
+        android:pathData="M47,33 L61,33 L61,37 L47,37 Z"
+        android:fillColor="#D4AF37" />
+    <!-- Cross Highlight -->
+    <path
+        android:pathData="M53,29 L55,29 L55,47 L53,47 Z"
+        android:fillColor="#F2D675" />
+    <path
+        android:pathData="M48,34 L60,34 L60,36 L48,36 Z"
+        android:fillColor="#F2D675" />
+</vector>

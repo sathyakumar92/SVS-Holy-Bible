@@ -1,0 +1,6 @@
+{
+  "name": "SVS Holy Bible",
+  "description": "Premium Bilingual (English & Tamil) Holy Bible app with Audio Bible, interactive quizzes, reading plans, topics, daily verses, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
